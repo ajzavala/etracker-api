@@ -10,5 +10,7 @@ namespace etracker_api.Models
         public DateTime ExpenseDate { get; set; }
         public decimal Amount { get; set; }
         public int ExpenseCategoryId { get; set; }
+        
+
     }
 }
